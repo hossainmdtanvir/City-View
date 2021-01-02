@@ -1,2 +1,3 @@
 # City-View
-Computer Graphics Project
+Computer Graphics Project_City View
+Tools Used: CodeBlocks, C++, Glut library
